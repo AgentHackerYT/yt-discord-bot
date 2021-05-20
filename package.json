@@ -1,0 +1,19 @@
+{
+  "name": "pps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "animal-api": "^0.0.2",
+    "covid-api-2021": "^0.0.3",
+    "discord.js": "^12.5.3",
+    "dotenv": "^9.0.2",
+    "quick.db": "^7.1.3",
+    "random-scripts": "^2.0.4"
+  }
+}
